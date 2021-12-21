@@ -30,8 +30,8 @@
 </head>
 
 <body>
-	  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-<a href="https://wa.me/525547899048?text=Me%20interesa%20información%20sobre%20la%20pastelería" class="float" target="_blank">
+	  <link rel="stylesheet" href="css/font-awesome.min.css">
+<a href="http://wa.me/525547899048?text=Me%20interesa%20información%20sobre%20la%20pastelería" class="float" target="_blank">
 <i class="fa fa-whatsapp my-float"></i>
 </a>
 
