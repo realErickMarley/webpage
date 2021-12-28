@@ -35,7 +35,7 @@
 
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-<a href="http://wa.me/525547899048?text=Me%20interesa%20información%20sobre%20la%20pastelería" class="float" target="_blank">
+<a href="http://wa.me/525627327557?text=Me%20interesa%20información%20sobre%20la%20pastelería" class="float" target="_blank">
 <i class="fa fa-whatsapp my-float"></i>
 </a>
 
@@ -68,25 +68,8 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="header__top__inner">
-                            <div class="header__top__left">
-                                <ul>
-                                    <li>USD <span class="arrow_carrot-down"></span>
-                                        <ul>
-                                            <li>EUR</li>
-                                            <li>USD</li>
-                                        </ul>
-                                    </li>
-                                    <li>ENG <span class="arrow_carrot-down"></span>
-                                        <ul>
-                                            <li>Spanish</li>
-                                            <li>ENG</li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="#">Sign in</a> <span class="arrow_carrot-down"></span></li>
-                                </ul>
-                            </div>
                             <div class="header__logo">
-                                <a href="./index.html"><img src="img/logo.png" alt=""></a>
+                                <a href="./index.html"><img src="img/logo.jpg" alt=""></a>
                             </div>
                             <div class="header__top__right">
                                 <div class="header__top__right__links">
@@ -144,7 +127,7 @@
                     <div class="row d-flex justify-content-center">
                         <div class="col-lg-8">
                             <div class="hero__text">
-                                <h2>Haciendo tu vida mas dulce, un mordizco a la vez!</h2>
+                                <h2>La Calidad y Dulzura de la Repostería Francesa!</h2>
                                 <a href="#" class="primary-btn">Nuestros Pasteles</a>
                             </div>
                         </div>
@@ -719,9 +702,9 @@
                     <div class="map__inner">
                         <h6>CDMX</h6>
                         <ul>
-                            <li>Lindavista 1054, Gustavo A. Madero</li>
+                            <li>Avenida San Pablo, calle zacatecas 55769 Municipio de Tecámac, Estado de México, México</li>
                             <li>pasteleriaMary@gmail.com</li>
-                            <li>+52 55 1632 5141</li>
+                            <li>+52 56 2732 7557</li>
                         </ul>
                     </div>
                 </div>
@@ -747,9 +730,8 @@
                     <div class="footer__widget">
                         <h6>Horario de Atención</h6>
                         <ul>
-                            <li>Lunes - Domingo: 08:00 am – 08:30 pm</li>
-                            <li>Sabado: 10:00 am – 16:30 pm</li>
-                            <li>Domingo: 10:00 am – 16:30 pm</li>
+                            <li>Lunes - Sábado: 10:00 am – 10:00 pm</li>
+                            <li>Domingo: 10:00 am – 09:00 pm</li>
                         </ul>
                     </div>
                 </div>
