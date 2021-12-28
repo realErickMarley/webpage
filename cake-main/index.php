@@ -27,13 +27,18 @@
     <link rel="stylesheet" href="css/slicknav.min.css" type="text/css">
     <link rel="stylesheet" href="css/style.css" type="text/css">
     <link rel="stylesheet" href="css/wastyle.css" type="text/css">
+    <link rel="stylesheet" href="css/styleWA.css" type="text/css">
+
 </head>
 
 <body>
-	  <link rel="stylesheet" href="css/font-awesome.min.css">
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 <a href="http://wa.me/525547899048?text=Me%20interesa%20información%20sobre%20la%20pastelería" class="float" target="_blank">
 <i class="fa fa-whatsapp my-float"></i>
 </a>
+
 
     <!-- Page Preloder -->
     <div id="preloder">
