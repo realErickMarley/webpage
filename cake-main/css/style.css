@@ -1,32 +1,3 @@
-/******************************************************************
-  Theme Name: Cake
-  Description: Cake e-commerce tamplate
-  Author: Colorib
-  Author URI: https://www.colorib.com//
-  Version: 1.0
-  Created: Colorib
-******************************************************************/
-/*------------------------------------------------------------------
-[Table of contents]
-
-1.  Template default CSS
-	1.1	Variables
-	1.2	Mixins
-	1.3	Flexbox
-	1.4	Reset
-2.  Helper Css
-3.  Header Section
-4.  Hero Section
-5.  Banner Section
-6.  Product Section
-7.  Intagram Section
-8.  Latest Section
-9.  Contact
-10.  Footer Style
--------------------------------------------------------------------*/
-/*----------------------------------------*/
-/* Template default CSS
-/*----------------------------------------*/
 html,
 body {
   height: 100%;
@@ -110,7 +81,7 @@ ol {
   margin-bottom: 35px;
 }
 .section-title span {
-  color: #f08632;
+  color: #89534D;
   font-size: 20px;
   font-weight: 600;
   text-transform: uppercase;
@@ -159,7 +130,7 @@ ol {
   text-transform: uppercase;
   padding: 14px 30px;
   color: #ffffff;
-  background: #f08632;
+  background: #89534D;
   letter-spacing: 2px;
 }
 
@@ -203,7 +174,7 @@ ol {
   0% {
     -webkit-transform: rotate(0deg);
     transform: rotate(0deg);
-    border: 4px solid #f44336;
+    border: 4px solid #89534D;
     border-left-color: transparent;
   }
   50% {
@@ -215,14 +186,14 @@ ol {
   100% {
     -webkit-transform: rotate(360deg);
     transform: rotate(360deg);
-    border: 4px solid #f44336;
+    border: 4px solid #89534D;
     border-left-color: transparent;
   }
 }
 @-webkit-keyframes loader {
   0% {
     -webkit-transform: rotate(0deg);
-    border: 4px solid #f44336;
+    border: 4px solid #89534D;
     border-left-color: transparent;
   }
   50% {
@@ -232,7 +203,7 @@ ol {
   }
   100% {
     -webkit-transform: rotate(360deg);
-    border: 4px solid #f44336;
+    border: 4px solid #89534D;
     border-left-color: transparent;
   }
 }
@@ -308,7 +279,7 @@ ol {
   Header
 -----------------------*/
 .header {
-  background: #f08632;
+  background: #89534D;
 }
 
 .header__top {
@@ -547,7 +518,7 @@ ol {
   top: 15px;
   height: calc(100% - 30px);
   width: calc(100% - 30px);
-  border: 1px dashed #f08632;
+  border: 1px dashed #89534D;
   content: "";
   opacity: 0.3;
 }
@@ -642,8 +613,8 @@ ol {
   bottom: -48px;
   width: 15px;
   height: 15px;
-  border: 1px solid #f08632;
-  border-color: transparent #f08632 #f08632 transparent;
+  border: 1px solid #89534D;
+  border-color: transparent #89534D #89534D transparent;
   content: "";
   -webkit-transform: rotate(-135deg);
       -ms-transform: rotate(-135deg);
@@ -654,7 +625,7 @@ ol {
   transition: all, 0.3s;
 }
 .categories__item:hover {
-  background: #f08632;
+  background: #89534D;
 }
 .categories__item:hover:after {
   opacity: 1;
@@ -667,7 +638,7 @@ ol {
 }
 
 .categories__item__icon span {
-  color: #f08632;
+  color: #89534D;
   -webkit-transition: all, 0.2s;
   -o-transition: all, 0.2s;
   transition: all, 0.2s;
@@ -769,7 +740,7 @@ ol {
   display: inline-block;
   width: 70px;
   height: 70px;
-  background: #f08632;
+  background: #89534D;
   font-size: 24px;
   color: #ffffff;
   line-height: 70px;
@@ -1109,7 +1080,7 @@ ol {
   font-size: 16px;
   font-weight: 600;
   display: inline-block;
-  border-bottom: 2px solid #f08632;
+  border-bottom: 2px solid #89534D;
   padding-bottom: 4px;
 }
 
@@ -1232,7 +1203,7 @@ ol {
 }
 .footer__newslatter form button {
   font-size: 20px;
-  color: #f08632;
+  color: #89534D;
   background: transparent;
   border: none;
   position: absolute;
@@ -1254,10 +1225,10 @@ ol {
   color: #888888;
 }
 .copyright__text i {
-  color: #f08632;
+  color: #89534D;
 }
 .copyright__text a {
-  color: #f08632;
+  color: #89534D;
 }
 
 .copyright__widget {
@@ -1383,7 +1354,7 @@ ol {
   display: inline-block;
   width: 70px;
   height: 70px;
-  background: #f08632;
+  background: #89534D;
   font-size: 24px;
   color: #ffffff;
   line-height: 70px;
@@ -1673,7 +1644,7 @@ ol {
   font-size: 20px;
   border: 1px solid #e1e1e1;
   display: inline-block;
-  color: #f08632;
+  color: #89534D;
   padding: 14px;
   line-height: 16px;
 }
@@ -1933,7 +1904,7 @@ ol {
 }
 .cart__total ul li span {
   font-weight: 600;
-  color: #e26b0c;
+  color: #89534D;
   float: right;
 }
 .cart__total .primary-btn {
@@ -1957,7 +1928,7 @@ ol {
   margin-bottom: 50px;
 }
 .coupon__code span {
-  color: #f08632;
+  color: #89534D;
 }
 .coupon__code a {
   color: #444444;
@@ -1981,7 +1952,7 @@ ol {
   margin-bottom: 12px;
 }
 .checkout__input p span {
-  color: #f08632;
+  color: #89534D;
 }
 .checkout__input input {
   height: 50px;
@@ -2023,7 +1994,7 @@ ol {
   visibility: hidden;
 }
 .checkout__input__checkbox label input:checked ~ .checkmark {
-  border-color: #f08632;
+  border-color: #89534D;
 }
 .checkout__input__checkbox label input:checked ~ .checkmark:after {
   opacity: 1;
@@ -2044,7 +2015,7 @@ ol {
   top: -3px;
   width: 14px;
   height: 7px;
-  border: solid #f08632;
+  border: solid #89534D;
   border-width: 1.5px 1.5px 0px 0px;
   -webkit-transform: rotate(127deg);
   -ms-transform: rotate(127deg);
@@ -2133,7 +2104,7 @@ ol {
   overflow: hidden;
 }
 .checkout__total__all li span {
-  color: #f08632;
+  color: #89534D;
   float: right;
 }
 
@@ -2224,7 +2195,7 @@ ol {
   margin-bottom: 55px;
 }
 .class__item:hover .class__item__pic .label {
-  background: #f08632;
+  background: #89534D;
 }
 .class__item:hover .class__item__text h5 a {
   text-decoration: underline;
@@ -2274,7 +2245,7 @@ ol {
 }
 .class__item__text .read_more {
   font-size: 16px;
-  color: #f08632;
+  color: #89534D;
   font-weight: 600;
 }
 
@@ -2372,7 +2343,7 @@ ol {
   font-size: 14px;
   color: #ffffff;
   font-weight: 600;
-  background: #f08632;
+  background: #89534D;
   display: inline-block;
   padding: 4px 15px 2px;
 }
@@ -2425,7 +2396,7 @@ ol {
   letter-spacing: 2px;
   text-transform: uppercase;
   padding-bottom: 3px;
-  border-bottom: 2px solid #f08632;
+  border-bottom: 2px solid #89534D;
 }
 
 /*---------------------
@@ -2527,7 +2498,7 @@ ol {
   text-decoration: line-through;
 }
 .blog__sidebar__item .blog__sidebar__item__categories ul li:hover a span {
-  color: #f08632;
+  color: #89534D;
 }
 .blog__sidebar__item .blog__sidebar__item__categories ul li a {
   font-size: 16px;
@@ -2578,7 +2549,7 @@ ol {
   visibility: hidden;
 }
 .blog__sidebar__item form label input:checked ~ .checkmark {
-  border-color: #f08632;
+  border-color: #89534D;
 }
 .blog__sidebar__item form label input:checked ~ .checkmark:after {
   opacity: 1;
@@ -2599,7 +2570,7 @@ ol {
   top: -3px;
   width: 14px;
   height: 7px;
-  border: solid #f08632;
+  border: solid #89534D;
   border-width: 1.5px 1.5px 0px 0px;
   -webkit-transform: rotate(127deg);
   -ms-transform: rotate(127deg);
@@ -2835,7 +2806,7 @@ ol {
 }
 .blog__details__print .primary-btn {
   background: transparent;
-  border: 1px solid #f08632;
+  border: 1px solid #89534D;
   color: #111111;
 }
 .blog__details__print .primary-btn i {
